@@ -18,3 +18,6 @@
 - [x] Reforçar elementos próprios do cadastro de proximidade na composição e no conteúdo.
 - [x] Configurar a favicon com o mesmo símbolo da marca.
 - [x] Validar logo e favicon no build final.
+- [ ] Confirmar o repositório GitHub de destino.
+- [ ] Sincronizar o projeto com o GitHub.
+- [ ] Orientar a ativação do GitHub Pages.
