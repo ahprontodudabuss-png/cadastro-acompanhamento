@@ -13,3 +13,8 @@
 - [x] Implementar estados básicos de carregamento e fallback pelo próprio iframe; estados do conteúdo ficam sob controle do Tally.
 - [x] Validar compatibilidade inicial com GitHub Pages; o embed do Tally funciona sem backend próprio nesta etapa.
 - [x] Preparar instruções de configuração e publicação da primeira interface.
+- [x] Aplicar a logo gerada como asset principal no cabeçalho da interface.
+- [x] Garantir que a referência visual seja usada apenas como inspiração, sem replicação de layout ou identidade.
+- [x] Reforçar elementos próprios do cadastro de proximidade na composição e no conteúdo.
+- [x] Configurar a favicon com o mesmo símbolo da marca.
+- [x] Validar logo e favicon no build final.

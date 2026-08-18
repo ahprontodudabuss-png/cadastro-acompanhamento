@@ -19,9 +19,7 @@ const steps = [
 function AppMark() {
   return (
     <div className="brand-mark" aria-hidden="true">
-      <span className="brand-mark__arc brand-mark__arc--one" />
-      <span className="brand-mark__arc brand-mark__arc--two" />
-      <span className="brand-mark__dot" />
+      <img src="/manus-storage/proximidade-mark_388653a9.png" alt="" />
     </div>
   );
 }
